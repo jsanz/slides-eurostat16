@@ -24,6 +24,7 @@ ___
 - Since 2011
 - ~100 employees
 - Offices in Madrid, NYC and Tartu
+- ~200K users
 
 ![](images/carto-team.png) <!-- .element: style="width:65%;" -->
 
