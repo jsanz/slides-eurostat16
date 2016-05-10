@@ -243,16 +243,15 @@ ___
 
 ---
 
-# Next steps
-
-## What are we doing at CartoDB?
-
-We want to provide for **everyone**:
+# Looking forward
 
 - A beter UI
 - Reference data
 - More analysis functions, beyond PostGIS
 - Better LDS
+
+For **everyone**, everything at https://github.com/CartoDB/
+
 
 ---
 
