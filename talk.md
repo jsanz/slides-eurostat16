@@ -1,6 +1,10 @@
 # *Making visible the invisible*
 ## the L Train closure
 
+![](images/cartobar.jpg)<!-- .element: style="width:40%;" -->
+___
+
+
 Jorge Sanz · [jorge@cartodb.com](mailto:jorge@cartodb.com) · [@xurxosanz](http://twitter.com/xurxosnaz)
 
 Eurostat 2016 Visualization Workshop
@@ -26,7 +30,7 @@ ___
 - Offices in Madrid, NYC and Tartu
 - ~200K users
 
-![](images/carto-team.png) <!-- .element: style="width:65%;" -->
+![](images/carto-team.png) <!-- .element: style="width:60%;" -->
 
 ---
 

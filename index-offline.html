@@ -6,10 +6,15 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <link rel="stylesheet" href="./reveal.js/css/reveal.css">
-    <link rel="stylesheet" href="./resources/white.css" id="theme">
+    <link rel="stylesheet" href="resources/cartodb.css" id="theme">
     <link rel="stylesheet" href="./reveal.js/lib/css/zenburn.css">
-    <link rel="stylesheet" href="./reveal.js/css/print/pdf.css" id="theme">
-
+    <!-- If the query includes 'print-pdf', use the PDF print sheet -->
+    <script>
+      document.write( '<link rel="stylesheet" href="./reveal.js/css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+    </script>
+    <!--[if lt IE 9]>
+      <script src="./reveal.js/lib/js/html5shiv.js"></script>
+    <![endif]-->
   </head>
 
   <body>
@@ -36,6 +41,7 @@
         history: true,
         center: true,
         slideNumber: true,
+        loop:true,
         theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
         transition: Reveal.getQueryHash().transition || 'convex', // default/cube/page/concave/zoom/linear/fade/none
         // Optional libraries used to extend on reveal.js
