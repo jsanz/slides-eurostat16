@@ -291,9 +291,11 @@ http://cartodb.github.io/labs-colorscales/
 
 # Thanks!
 
-## Making visible the invisible: <br/> the L Train closure
+![](images/cartobar.jpg)<!-- .element: style="width:40%;" -->
 
 Jorge Sanz · [jorge@cartodb.com](mailto:jorge@cartodb.com) · [@xurxosanz](http://twitter.com/xurxosnaz)
+
+http://bit.ly/160518-ltrain
 
 ![](resources/logo.svg)<!-- .element: style="width:10%;" -->
 ___
