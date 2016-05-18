@@ -209,7 +209,7 @@ ___
 
 ![](resources/logo.svg)
 
-__
+___
 
 ## CartoDB as an location intelligence platform
 
