@@ -269,6 +269,75 @@ For **everyone**, everything at https://github.com/CartoDB/
 - A beter UI: new CartoDB Editor<!-- .element: class="fragment" -->
 - Reference data: the Data Observatory<!-- .element: class="fragment" -->
 
+___
+
+## Improving visualization
+
+<iframe width="100%" height="520"
+  frameborder="0" src="http://cartodb.github.io/labs-colorscales/"
+  allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""
+  oallowfullscreen="" msallowfullscreen=""
+  style="background-color:white"></iframe>
+
+http://cartodb.github.io/labs-colorscales/
+___
+
+## The Data Observatory
+
+http://cartodb.com/data
+___
+
+## Getting boundaries
+
+![](images/denver_census_tracts.gif)
+___
+
+## Table augmentation
+
+> Population density per km on a certain point
+
+```sql
+UPDATE mytable
+ SET pop_density_per_km =
+   OBS_GetMeasure(
+     CDB_LatLng(40.39, -3.7),
+     'es.ine.total_pop'
+     );
+```
+
+> Total population under a certain area
+
+```sql
+UPDATE mytable
+ SET total_pop =
+   OBS_GetMeasure(
+     ST_Buffer(
+      CDB_LatLng(40.39, -3.7),
+      0.01),
+     'es.ine.total_pop'
+   );
+```
+___
+
+> Median rent per square foot for all homes
+
+```sql
+UPDATE mytable
+ SET median_rent_per_sqfoot =
+   OBS_GetMeasure(
+     CDB_LatLng(28.33, -81.35),
+     'us.zillow.AllHomes_MedianRentalPricePerSqft'
+   );
+```
+___
+
+## The Data Observatory
+
+- Access to **boundaries** and **measures** for CartoDB users
+- <span class="fragment">Accessible using a well known language: <strong>SQL</strong></span>
+- <span class="fragment">Open Source and Open Data <strong>together</strong>!</span>
+- <span class="fragment">Available from <strong>today</strong></span>
+
 ---
 
 ## Thanks!
