@@ -279,7 +279,8 @@ Jorge Sanz · [jorge@cartodb.com](mailto:jorge@cartodb.com) · [@xurxosanz](http
 
 http://bit.ly/160518-ltrain
 
-![](resources/logo.svg)<!-- .element: style="width:7%;" -->
+![](resources/logo.svg)<!-- .element: style="width:10%;" -->
+
 ___
 
 # Credits
