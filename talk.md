@@ -274,7 +274,7 @@ ___
 ## Improving visualization
 
 <iframe width="100%" height="520"
-  frameborder="0" src="http://cartodb.github.io/labs-colorscales/"
+  frameborder="0" src="https://cartodb.github.io/labs-colorscales/"
   allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""
   oallowfullscreen="" msallowfullscreen=""
   style="background-color:white"></iframe>
