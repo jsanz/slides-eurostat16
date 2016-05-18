@@ -5,21 +5,12 @@
 ___
 
 
-Jorge Sanz · [jorge@cartodb.com](mailto:jorge@cartodb.com) · [@xurxosanz](http://twitter.com/xurxosnaz)
+![](resources/logo.svg)<!-- .element: style="width:15%;" -->
 
-Eurostat 2016 Visualization Workshop
-
-![](resources/logo.svg)<!-- .element: style="width:10%;" -->
-
-___
-
-## Agenda
-
-- Problem definition
-- Current status
-- Proposed solution
-- Technology
-- Looking forward
+- Jorge Sanz
+- [jorge@cartodb.com](mailto:jorge@cartodb.com)
+- [@xurxosanz](http://twitter.com/xurxosnaz)
+- Solutions engineer and Support manager
 
 ___
 
@@ -32,6 +23,16 @@ ___
 - Offices in Madrid, NYC and Tartu
 
 <iframe width='80%' height='400' frameborder='0' src='https://team.cartodb.com/u/jsanz/viz/4ddc4fd8-fcb5-11e5-914a-0ef7f98ade21/embed_map?zoom=3&center_lat=46&center_lon=-50' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+___
+
+## Agenda
+
+- Problem definition
+- Current status
+- Proposed solution
+- Technology
+- Looking forward
 
 ---
 
@@ -206,11 +207,9 @@ ___
 
 # Technology
 
-
 ![](resources/logo.svg)
 
-___
-
+__
 
 ## CartoDB as an location intelligence platform
 
@@ -227,7 +226,6 @@ Expose third party services through SQL:
 - Geocoding: Mapzen, HERE, Google
 - Routing: Mapzen
 - Trade Areas: HERE
-
 ___
 
 ## Example: Geocoding + Routing
@@ -254,14 +252,11 @@ ___
 ## Example: live routing
 
 <iframe width="100%" height="520" frameborder="0" src="https://cartodb.github.io/cartodb-routing-demo/" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
-
 ___
 
 ## Example: trade areas
 
 <iframe width="100%" height="520" frameborder="0" src="https://cartodb.github.io/labs-trade-areas-subway/" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
-
-
 
 ---
 
@@ -274,28 +269,17 @@ For **everyone**, everything at https://github.com/CartoDB/
 - A beter UI: new CartoDB Editor<!-- .element: class="fragment" -->
 - Reference data: the Data Observatory<!-- .element: class="fragment" -->
 
-
-___
-
-## Improving visualization
-
-<iframe width="100%" height="520"
-  frameborder="0" src="http://cartodb.github.io/labs-colorscales/"
-  allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""
-  oallowfullscreen="" msallowfullscreen=""
-  style="background-color:white"></iframe>
-
-http://cartodb.github.io/labs-colorscales/
-
 ---
 
-# Thanks!
+## Thanks!
 
-## Making visible the invisible: <br/> the L Train closure
+![](images/cartobar.jpg)<!-- .element: style="width:40%;" -->
 
 Jorge Sanz · [jorge@cartodb.com](mailto:jorge@cartodb.com) · [@xurxosanz](http://twitter.com/xurxosnaz)
 
-![](resources/logo.svg)<!-- .element: style="width:10%;" -->
+http://bit.ly/160518-ltrain
+
+![](resources/logo.svg)<!-- .element: style="width:7%;" -->
 ___
 
 # Credits
