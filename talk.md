@@ -304,6 +304,7 @@ UPDATE mytable
      'es.ine.total_pop'
      );
 ```
+<!-- .element: style="width:50%;" -->
 
 > Total population under a certain area
 
@@ -317,6 +318,7 @@ UPDATE mytable
      'es.ine.total_pop'
    );
 ```
+<!-- .element: style="width:50%;" -->
 ___
 
 > Median rent per square foot for all homes
@@ -329,6 +331,7 @@ UPDATE mytable
      'us.zillow.AllHomes_MedianRentalPricePerSqft'
    );
 ```
+<!-- .element: style="width:60%;" -->
 ___
 
 ## The Data Observatory
