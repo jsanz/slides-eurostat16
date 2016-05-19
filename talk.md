@@ -285,6 +285,8 @@ ___
 ## The Data Observatory
 
 http://cartodb.com/data
+
+https://blog.cartodb.com/data-observatory/
 ___
 
 ## Getting boundaries
