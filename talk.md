@@ -2,6 +2,8 @@
 ## the L Train closure
 
 ![](images/cartobar.jpg)<!-- .element: style="width:40%;" -->
+
+SIG Libre 2016 · Girona
 ___
 
 
@@ -17,12 +19,10 @@ ___
 ## About us
 
 - CartoDB: location intelligence SaaS
-- ~200K users
-- Since 2011
-- ~100 employees
+- Since 2011, ~200K users, ~100 employees
 - Offices in Madrid, NYC and Tartu
 
-<iframe width='80%' height='400' frameborder='0' src='https://team.cartodb.com/u/jsanz/viz/4ddc4fd8-fcb5-11e5-914a-0ef7f98ade21/embed_map?zoom=3&center_lat=46&center_lon=-50' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width='80%' height='400' frameborder='0' src='https://team.cartodb.com/u/jsanz/viz/4ddc4fd8-fcb5-11e5-914a-0ef7f98ade21/embed_map?zoom=3&center_lat=46&center_lon=-50' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen style="margin-top:15px;"></iframe>
 
 ___
 
@@ -284,9 +284,11 @@ ___
 
 ## The Data Observatory
 
+![](images/data.png)
+
 http://cartodb.com/data
 
-https://blog.cartodb.com/data-observatory/
+https://blog.cartodb.com/data-observatory/ and [more](https://blog.cartodb.com/create-location-data-easily/) [posts](https://blog.cartodb.com/five-ways-data-observatory-is-going-to-change-your-relationship-with-cartodb/) [coming](https://blog.cartodb.com/driving-future-location-prediction/)
 ___
 
 ## Getting boundaries
@@ -351,7 +353,7 @@ ___
 
 Jorge Sanz · [jorge@cartodb.com](mailto:jorge@cartodb.com) · [@xurxosanz](http://twitter.com/xurxosnaz)
 
-http://bit.ly/160518-ltrain
+http://bit.ly/160524-siglibre10-ltrain
 
 ![](resources/logo.svg)<!-- .element: style="width:10%;" -->
 
