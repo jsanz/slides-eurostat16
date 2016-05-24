@@ -347,7 +347,7 @@ ___
 
 ---
 
-## Thanks!
+## Gràcies!
 
 ![](images/cartobar.jpg)<!-- .element: style="width:40%;" -->
 
