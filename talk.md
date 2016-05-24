@@ -343,7 +343,6 @@ ___
 - Access to **boundaries** and **measures** for CartoDB users
 - <span class="fragment">Accessible using a well known language: <strong>SQL</strong></span>
 - <span class="fragment">Open Source and Open Data <strong>together</strong>!</span>
-- <span class="fragment">Available from <strong>today</strong></span>
 
 ---
 
